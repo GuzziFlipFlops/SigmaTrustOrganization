@@ -1,0 +1,4 @@
+repository "SigmaTrustOrganization@Games1O1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
